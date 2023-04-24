@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "laplace": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
